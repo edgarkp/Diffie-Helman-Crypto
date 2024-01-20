@@ -5,7 +5,7 @@ The Diffie-Hellman key exchange is one of the earliest algorithms used to secure
 
 ## Secrecy chart : 
 
-![secrecy-chart](images/secrecy-chart.png)
+![secrecy_chart](images/secrecy_chart.PNG)
 
 
 ## Code organization: 
