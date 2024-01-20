@@ -16,7 +16,7 @@ The Diffie-Hellman key exchange is one of the earliest algorithms used to secure
 ├── src
 │   ├── main
 ├── images
-│   ├── secrecy-chart.png
+│   ├── secrecy_chart.PNG
 ```
 
 The code runs with Rust / Cargo . For the moment, only unit tests are available 
