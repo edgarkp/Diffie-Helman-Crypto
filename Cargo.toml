@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 rand = "0.8.5"
 primapalooza = "0.3.0"
+
+[features]
+big-primes = []
